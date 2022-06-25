@@ -1,6 +1,6 @@
 ![](https://github.com/mainstory/mainstory/blob/main/assets/github-header.png)
 
-## Web Designer my project main story
+## Web Designer 
 ###
 ![](https://c.tenor.com/K2izLCpF2MgAAAAd/responsive-web-design.gif)
 
