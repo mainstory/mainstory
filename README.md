@@ -1,8 +1,8 @@
-![](https://github.com/mainstory/mainstory/blob/main/assets/github-header.png)
+![](https://miro.medium.com/max/1400/0*xyXMTyK9HUYZdsf6.gif)
 
 ## Web Designer 
 ###
-![](https://c.tenor.com/K2izLCpF2MgAAAAd/responsive-web-design.gif)
+![](https://www.mygo.ge/uploads/blog/1584023795.jpg)
 
 ### Language and Tools
 
@@ -16,3 +16,5 @@
 ### Follow me
 
 ![](https://img.shields.io/badge/TELEGRAM-000?style=for-the-badge&logo=telegram)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainstory&show_icons=true&theme=radical)
