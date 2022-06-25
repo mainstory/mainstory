@@ -6,20 +6,16 @@
 
 ### Language and Tools
 
-![](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp)
-![](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass)
-![](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
-![](https://img.shields.io/badge/BEM-000?style=for-the-badge&logo=bem)
+
 
 ![](https://github.com/mainstory/mainstory/blob/main/assets/icons8-javascript.svg)
 ![](https://github.com/mainstory/mainstory/blob/main/assets/icons8-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-48.png)
 ![](https://github.com/mainstory/mainstory/blob/main/assets/icons8-sass.svg)
 ![](https://github.com/mainstory/mainstory/blob/main/assets/icons8-css3.svg)
+![](https://github.com/mainstory/mainstory/blob/main/assets/icons8-html-5.svg)
 
 ### Follow me
 
 ![](https://img.shields.io/badge/TELEGRAM-000?style=for-the-badge&logo=telegram)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainstory&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mainstory&show_icons=true&theme=radical)
