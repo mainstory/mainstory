@@ -1,4 +1,4 @@
-![](https://c.tenor.com/IuD_d2xB31QAAAAC/shrek-shrek-is-love.gif)
+![]()
 
 ## Typesetter
 
