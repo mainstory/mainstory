@@ -13,6 +13,8 @@
 ![](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/BEM-000?style=for-the-badge&logo=bem)
 
+![](https://github.com/mainstory/mainstory/blob/main/assets/icons8-javascript.svg)
+
 ### Follow me
 
 ![](https://img.shields.io/badge/TELEGRAM-000?style=for-the-badge&logo=telegram)
