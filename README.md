@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/BEM-000?style=for-the-badge&logo=bem)
 
 ![](https://github.com/mainstory/mainstory/blob/main/assets/icons8-javascript.svg)
+![](https://github.com/mainstory/mainstory/blob/main/assets/icons8-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-48.png)
 
 ### Follow me
 
