@@ -1,6 +1,6 @@
 ![](https://github.com/mainstory/mainstory/blob/main/assets/github-header.png)
 
-## Typesetter
+## Typesetter/Programmer
 
 ### Language and Tools
 
