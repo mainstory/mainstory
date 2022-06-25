@@ -1,6 +1,8 @@
 ![](https://github.com/mainstory/mainstory/blob/main/assets/github-header.png)
 
-## Typesetter/Programmer
+## 👋 Hi i'm Web Designer my project main story
+
+![](https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif)
 
 ### Language and Tools
 
