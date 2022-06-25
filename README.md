@@ -1,4 +1,4 @@
-![](https://miro.medium.com/max/1400/0*xyXMTyK9HUYZdsf6.gif)
+![](https://github.com/mainstory/mainstory/blob/main/assets/github-header.png)
 
 ## Web Designer 
 ###
