@@ -1,6 +1,6 @@
 ![](https://github.com/mainstory/mainstory/blob/main/assets/github-header.png)
 
-## Web Designer 
+## Web Designer & Programmer
 ###
 ![](https://www.mygo.ge/uploads/blog/1584023795.jpg)
 
